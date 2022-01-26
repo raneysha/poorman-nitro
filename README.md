@@ -33,6 +33,7 @@ This is the image that will appear
 * [HTML]
 * [CSS]
 * [Javascript]
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Authors
 
